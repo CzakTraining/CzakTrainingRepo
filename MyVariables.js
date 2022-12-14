@@ -1,4 +1,4 @@
-var s_account = "adobecx1czak";
+var s_account = "adobecx1luke-report-suite";
 var s = s_gi(s_account);
 
 s.trackingServer = "czak.data.adobedc.net";
